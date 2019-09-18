@@ -16,5 +16,4 @@ public class UserController {
         return new ResponseInfo(str);
     }
 
-
 }
