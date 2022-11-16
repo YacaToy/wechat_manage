@@ -22,7 +22,7 @@
         <!-- shiro版本号 -->
         <shiro.version>1.3.2</shiro.version>
         <!-- jackson版本 -->
-        <jackson.version>2.9.4</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <io.springfox.version>2.8.0</io.springfox.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
